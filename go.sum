@@ -5,8 +5,8 @@ github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8/go.mod h1:xkRDCp4j0
 github.com/kr/pretty v0.1.0 h1:L/CwN0zerZDmRFUapSPitk6f+Q3+0za1rQkzVuMiMFI=
 github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
 github.com/kr/text v0.2.0/go.mod h1:eLer722TekiGuMkidMxC/pM04lWEeraHUUmBw8l2grE=
-github.com/ma6174/bsonex v1.2.0 h1:MsyK7LiPNcZq918fFl6A5lWnPl8S3yCnftwP97Fmjn0=
-github.com/ma6174/bsonex v1.2.0/go.mod h1:alqmWitsiYyefEwTwLVMuR75g15cOJOVsS6sF3oY9Js=
+github.com/ma6174/bsonex v1.2.1 h1:qFkRpwDjN/yEjOtad3sveqnvXSjhAgAJo6j9TUG3uRo=
+github.com/ma6174/bsonex v1.2.1/go.mod h1:alqmWitsiYyefEwTwLVMuR75g15cOJOVsS6sF3oY9Js=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/sbunce/bson v0.0.0-20181119052045-2aa5ebe749b2 h1:uEWAxH5RIhQ9kXzoLvRXaaz0pfq9hWPMEhF/9BcoZDU=
 github.com/sbunce/bson v0.0.0-20181119052045-2aa5ebe749b2/go.mod h1:19bU15EB+sPE8EJyr+o7AY5WooIZvRKg4BTYOToZMtM=
